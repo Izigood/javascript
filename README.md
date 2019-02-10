@@ -1,4 +1,4 @@
 # javascript
 Dossier d'entrainement.
 
-Nouvelle fonctionalité :-)
+Nouvelle fonctionalité.
